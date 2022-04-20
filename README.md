@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fReakless01
-- 👀 I’m interested in Cyber Security & Hackers & Programming
-- 🌱 I’m currently learning Linux
+- 👀 I’m interested in Cyber Security & Bug_Bounty & Programming
+- 🌱 I’m currently learning (Linux & network & python & HTLM & JavaScript & SQL)
 - 💞️ I’m looking to collaborate on (small project)
 - 📫 How to reach me twitter
 
